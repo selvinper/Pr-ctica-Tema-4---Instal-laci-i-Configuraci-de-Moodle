@@ -26,5 +26,9 @@ Instala los idimas que mas se hablan en el mundo que es el **Ingles**,**Chino**,
 
 
 ### Establecer contraseñas robustas
+Le he cambiado el tipo de contraseña que pedia de 8 digitos a 9 digitos y que lleve mas cosas
+
+
+
 
 
