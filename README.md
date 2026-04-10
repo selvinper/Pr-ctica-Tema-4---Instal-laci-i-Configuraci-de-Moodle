@@ -26,9 +26,12 @@ Instala los idimas que mas se hablan en el mundo que es el **Ingles**,**Chino**,
 
 
 ### Establecer contraseñas robustas
-Le he cambiado el tipo de contraseña que pedia de 8 digitos a 9 digitos y que lleve mas cosas
+Le he cambiado el tipo de logitud de 8 a 9 y que tenga mas cosas como 
+
+<img width="1194" height="509" alt="Captura de pantalla 2026-04-10 141840" src="https://github.com/user-attachments/assets/2845d279-3789-4631-a3e0-bdd8a5200e8c" />
 
 
+## Creacion de los cursos
 
 
 
