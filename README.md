@@ -11,6 +11,12 @@ Lo primero que he hecho es entrar al moodle y poner una foto de perfil y cambiar
 
 ### 1.2. Configuracion del lugar
 
+### Cambio de nombre
+El nombre que le he puesto es Moodle la Bastida
+<img width="1202" height="615" alt="Captura de pantalla 2026-04-10 142414" src="https://github.com/user-attachments/assets/8ecf07cb-ca5e-4c3a-8073-aa682440ffa1" />
+
+
+
 ### cofiguracion de la franja horaria correcta
 En la franja horaria he puesto Europa/Madrid y en el pais he puesto España 
 
@@ -32,6 +38,7 @@ Le he cambiado el tipo de logitud de 8 a 9 y que tenga mas cosas como
 
 
 ## Creacion de los cursos
+
 
 
 
