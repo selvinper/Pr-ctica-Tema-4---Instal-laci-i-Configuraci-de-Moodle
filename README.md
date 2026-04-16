@@ -1,15 +1,15 @@
 # Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle
 
-## 1. Configuracion inicial del moodle
+## Configuracion inicial del moodle
 
-### 1.1. Administración del perfil del usuario
+### Administración del perfil del usuario
 Lo primero que he hecho es entrar al moodle y poner una foto de perfil y cambiar el correo electronico
 
 <img width="1207" height="672" alt="Captura de pantalla 2026-04-10 141240" src="https://github.com/user-attachments/assets/9aa8b476-890b-4058-b336-2e241296ce9e" />
 
 
 
-### 1.2. Configuracion del lugar
+### Configuracion del lugar
 
 ### Cambio de nombre
 El nombre que le he puesto es Moodle la Bastida
@@ -53,6 +53,22 @@ He hecho lo mismo que el curso A pero en el curso B he puesto 5 temas
 ## Creacion i gestion de usuarios 
 
 ### Creacion manual de usuarios 
+he creado un usuario lamado Bob y lleva mis apellidos y lehe puesto mi correo 
+<img width="704" height="686" alt="image" src="https://github.com/user-attachments/assets/0e076e61-cdde-4531-a4de-b5af3424dc2e" />
+<img width="795" height="317" alt="image" src="https://github.com/user-attachments/assets/8c095112-2300-41c3-b85b-18e2e4c3c666" />
+
+
+### Creacion masiva de alumnos 
+he creado 10 alumnos masivo con el archivo CSV 
+<img width="880" height="808" alt="image" src="https://github.com/user-attachments/assets/475da7fa-242a-4fc6-bab2-3dda36fdb812" />
+
+### eliminacion de 2 alumnos 
+Cundo me pide que elimine dos usuario yo he eliminado el **alumno1** y **alumno10** 
+<img width="446" height="588" alt="image" src="https://github.com/user-attachments/assets/c4df95de-913e-49cb-a607-556cac5de9f7" />
+
+
+
+
 
 
 
