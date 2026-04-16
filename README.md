@@ -68,6 +68,13 @@ Cundo me pide que elimine dos usuario yo he eliminado el **alumno1** y **alumno1
 
 ## 3. Matriculacion de los usuarios en el curso 
 
+### 3.1. Curso A
+Lo que hecho es entrar al curso darle click a participantes metodos de matriculacion y darle visualizacion a auto-matriculacion
+<img width="859" height="550" alt="image" src="https://github.com/user-attachments/assets/6a24f6b8-fe12-4b62-b6fd-2ab7edb3551f" />
+
+### Curso B
+
+
 
 
 
