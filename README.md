@@ -74,6 +74,10 @@ Lo que hecho es entrar al curso darle click a participantes metodos de matricula
 
 ### Curso B
 
+<img width="745" height="427" alt="image" src="https://github.com/user-attachments/assets/42c828c7-cad7-49e5-ab1b-b07f0cd91897" />
+
+
+
 
 
 
