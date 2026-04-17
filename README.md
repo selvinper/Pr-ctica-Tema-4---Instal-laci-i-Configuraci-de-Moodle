@@ -95,6 +95,14 @@ Para el instalador de complemetos he eleigdo este plugin
 <img width="886" height="866" alt="image" src="https://github.com/user-attachments/assets/ed3118c1-8864-45a3-8662-8186116ba312" />
 
 
+## Logotipo
+<img width="869" height="844" alt="image" src="https://github.com/user-attachments/assets/92592c58-e0f5-42d8-a1d6-03594b9fc335" />
+
+
+
+
+
+
 
 
 
