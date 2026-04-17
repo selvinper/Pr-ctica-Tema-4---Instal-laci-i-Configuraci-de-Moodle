@@ -72,9 +72,29 @@ Cundo me pide que elimine dos usuario yo he eliminado el **alumno1** y **alumno1
 Lo que hecho es entrar al curso darle click a participantes metodos de matriculacion y darle visualizacion a auto-matriculacion
 <img width="859" height="550" alt="image" src="https://github.com/user-attachments/assets/6a24f6b8-fe12-4b62-b6fd-2ab7edb3551f" />
 
-### Curso B
-
+### 3.2. Curso B
+asigne a Bob como profesor 
 <img width="745" height="427" alt="image" src="https://github.com/user-attachments/assets/42c828c7-cad7-49e5-ab1b-b07f0cd91897" />
+
+El resto de usuarios los matricule como alumnos 
+<img width="1203" height="670" alt="image" src="https://github.com/user-attachments/assets/9ceff5bf-14ba-4462-b92d-1a1b13a621d4" />
+
+### 3.3. Comprovacion
+Cuando entro al curso A me pide iniciar sesion pero cuando le doy como invitado puedo acceder.
+<img width="788" height="706" alt="image" src="https://github.com/user-attachments/assets/d6a96f5c-8657-45b8-bb35-69b1e6696d0d" />
+
+Mientras que en el curso B no me deja acceder al curso
+<img width="800" height="580" alt="image" src="https://github.com/user-attachments/assets/031d08ee-4948-4208-8222-3027cd120315" />
+
+
+## 4. Personalizacion del lugar
+Para el instalador de complemetos he eleigdo este plugin
+<img width="783" height="701" alt="image" src="https://github.com/user-attachments/assets/99720fae-2159-4f77-95bb-eb226d6ccdf9" />
+
+### Plugin instalado
+<img width="886" height="866" alt="image" src="https://github.com/user-attachments/assets/ed3118c1-8864-45a3-8662-8186116ba312" />
+
+
 
 
 
