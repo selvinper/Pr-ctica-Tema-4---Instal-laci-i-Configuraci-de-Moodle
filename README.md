@@ -99,6 +99,9 @@ Para el instalador de complemetos he eleigdo este plugin
 <img width="869" height="844" alt="image" src="https://github.com/user-attachments/assets/92592c58-e0f5-42d8-a1d6-03594b9fc335" />
 
 
+## 5. Creacion de contenido y actividades 
+
+
 
 
 
