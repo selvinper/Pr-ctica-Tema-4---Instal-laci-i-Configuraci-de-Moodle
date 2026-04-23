@@ -107,6 +107,12 @@ En el curso A he puesto una tarea que no tiene data de entrega y se entrega en p
 
 <img width="887" height="816" alt="image" src="https://github.com/user-attachments/assets/48f095e2-fa75-46b6-9a1c-245b1afc2734" />
 
+## 6. Calificaciones y insignias.
+
+
+
+
+
 
 
 
