@@ -100,6 +100,17 @@ Para el instalador de complemetos he eleigdo este plugin
 
 
 ## 5. Creacion de contenido y actividades 
+En el curso A he puesto una tarea que no tiene data de entrega y se entrega en pdf
+<img width="885" height="866" alt="image" src="https://github.com/user-attachments/assets/fefce858-2251-4eb5-8b9a-39467b86302b" />
+
+### 5.1. Clonacion de el curso 
+
+<img width="887" height="816" alt="image" src="https://github.com/user-attachments/assets/48f095e2-fa75-46b6-9a1c-245b1afc2734" />
+
+
+
+
+
 
 
 
