@@ -112,7 +112,7 @@ En el curso A he puesto una tarea que no tiene data de entrega y se entrega en p
 
 ### 5.1. Clonacion del curso 
 en clonacion de curso he clonado lo del curso A
-![Clonacion del curso](images/20.png)
+![Clonacion del curso](images/21.png)
 
 
 ## 6. Calificaciones y insignias.
@@ -120,7 +120,7 @@ En calificaciones lo he puesto autoamtico
 
 
 ## 7 seguridad
-![Clonacion del curso](images/21.png)
+![Clonacion del curso](images/22.png)
 
 
 
