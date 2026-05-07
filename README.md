@@ -115,7 +115,11 @@ en clonacion de curso he clonado lo del curso A
 ![Clonacion del curso](images/21.png)
 
 
-## 6. Calificaciones y insignias.
+## 6. Calificaciones.
+![Calificaciones](images/23.png)
+<img width="1176" height="692" alt="Captura desde 2026-05-07 13-07-29" src="https://github.com/user-attachments/assets/445e1a3d-8ca0-4292-aec6-bcdd9b8ba11e" />
+
+
 En calificaciones lo he puesto autoamtico
 
 
