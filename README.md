@@ -27,14 +27,10 @@ Instala los idimas que mas se hablan en el mundo que es el **Ingles**,**Chino**,
 ![Cambio de Idioma](images/4.png)
 
 
-<img width="1207" height="601" alt="Captura de pantalla 2026-04-10 135254" src="https://github.com/user-attachments/assets/fed28a19-d554-4c48-9225-bd1895b878d7" />
-
-
-
 ### 1.2.4. Establecer contraseñas robustas
 Le he cambiado el tipo de logitud de 8 a 9 y que tenga mas cosas como 
+![Establecer contraseñas robustas](images/5.png)
 
-<img width="1194" height="509" alt="Captura de pantalla 2026-04-10 141840" src="https://github.com/user-attachments/assets/2845d279-3789-4631-a3e0-bdd8a5200e8c" />
 
 
 ## 2. Creacion de los cursos
