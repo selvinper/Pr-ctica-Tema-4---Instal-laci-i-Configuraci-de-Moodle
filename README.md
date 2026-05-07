@@ -116,7 +116,11 @@ en clonacion de curso he clonado lo del curso A
 
 
 ## 6. Calificaciones y insignias.
-Encalificacion el moodle lo
+En calificaciones lo he puesto autoamtico
+
+
+## 7 seguridad
+![Clonacion del curso](images/21.png)
 
 
 
