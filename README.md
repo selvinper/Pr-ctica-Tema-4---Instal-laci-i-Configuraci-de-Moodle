@@ -52,7 +52,8 @@ He hecho lo mismo que el curso A pero en el curso B he puesto 5 temas
 
 ### 2.3.1. Creacion manual de usuarios 
 he creado un usuario lamado Bob y lleva mis apellidos y lehe puesto mi correo 
-<img width="704" height="686" alt="image" src="https://github.com/user-attachments/assets/0e076e61-cdde-4531-a4de-b5af3424dc2e" />
+![Curso B](images/9.png)
+
 <img width="795" height="317" alt="image" src="https://github.com/user-attachments/assets/8c095112-2300-41c3-b85b-18e2e4c3c666" />
 
 
