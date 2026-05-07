@@ -17,8 +17,8 @@ El nombre que le he puesto es Moodle la Bastida
 
 ### 1.2.2. cofiguracion de la franja horaria correcta
 En la franja horaria he puesto Europa/Madrid y en el pais he puesto España 
+![cofiguracion de la franja horaria correcta](images/3.png)
 
-<img width="1184" height="623" alt="Captura de pantalla 2026-04-10 134534" src="https://github.com/user-attachments/assets/ef43b441-12c4-4a09-8736-9a3b2bcd36a7" />
 
 
 
