@@ -83,33 +83,37 @@ El resto de usuarios los matricule como alumnos
 
 ### 3.3. Comprovacion
 Cuando entro al curso A me pide iniciar sesion pero cuando le doy como invitado puedo acceder.
-![Comprovacion](images/14.png)
+![Comprovacion](images/15.png)
 
 
 Mientras que en el curso B no me deja acceder al curso
-
-![Comprovacion.2](images/14.png)
+![Comprovacion.2](images/16.png)
 
 
 ## 4. Personalizacion del lugar
 Para el instalador de complemetos he eleigdo este plugin
-<img width="783" height="701" alt="image" src="https://github.com/user-attachments/assets/99720fae-2159-4f77-95bb-eb226d6ccdf9" />
+![Personalizacion del lugar](images/17.png)
+
 
 ### Plugin instalado
-<img width="886" height="866" alt="image" src="https://github.com/user-attachments/assets/ed3118c1-8864-45a3-8662-8186116ba312" />
+![Plugin instalado](images/18.png)
+
 
 
 ## Logotipo
-<img width="869" height="844" alt="image" src="https://github.com/user-attachments/assets/92592c58-e0f5-42d8-a1d6-03594b9fc335" />
+![Logotipo](images/19.png)
+
 
 
 ## 5. Creacion de contenido y actividades 
 En el curso A he puesto una tarea que no tiene data de entrega y se entrega en pdf
-<img width="885" height="866" alt="image" src="https://github.com/user-attachments/assets/fefce858-2251-4eb5-8b9a-39467b86302b" />
+![Creacion de contenido y actividades ](images/20.png)
 
-### 5.1. Clonacion de el curso 
+
+### 5.1. Clonacion del curso 
 en clonacion de curso he clonado lo del curso A
-<img width="887" height="816" alt="image" src="https://github.com/user-attachments/assets/48f095e2-fa75-46b6-9a1c-245b1afc2734" />
+![Clonacion del curso](images/20.png)
+
 
 ## 6. Calificaciones y insignias.
 Encalificacion el moodle lo
