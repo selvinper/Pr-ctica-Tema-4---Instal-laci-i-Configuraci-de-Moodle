@@ -45,7 +45,8 @@ En el curso A he puesto 3 temas que le he llamado **Tema 1**, **Tema 2**, **Tema
 
 ## 2.2 Curso B
 He hecho lo mismo que el curso A pero en el curso B he puesto 5 temas 
-<img width="780" height="745" alt="image" src="https://github.com/user-attachments/assets/b86e9cfc-257f-4b33-a509-61f7aa769dca" />
+![Curso B](images/8.png)
+
 
 ## 2.3. Creacion i gestion de usuarios 
 
