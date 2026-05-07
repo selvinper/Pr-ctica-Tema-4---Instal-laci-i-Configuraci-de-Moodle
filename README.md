@@ -52,18 +52,19 @@ He hecho lo mismo que el curso A pero en el curso B he puesto 5 temas
 
 ### 2.3.1. Creacion manual de usuarios 
 he creado un usuario lamado Bob y lleva mis apellidos y lehe puesto mi correo 
-![Curso B](images/9.png)
+![Creacion i gestion de usuarios](images/9.png)
 
 
 ### 2.3.2. Creacion masiva de alumnos 
 he creado 10 alumnos masivo con el archivo CSV 
-![Curso B](images/10.png)
+![Creacion masiva de alumnos](images/10.png)
 
 
 
 ### 2.3.3. eliminacion de 2 alumnos 
-Cundo me pide que elimine dos usuario yo he eliminado el **alumno1** y **alumno10** 
-<img width="446" height="588" alt="image" src="https://github.com/user-attachments/assets/c4df95de-913e-49cb-a607-556cac5de9f7" />
+Cundo me pide que elimine dos usuario yo he eliminado el **alumno1** y **alumno10**
+![Creacion masiva de alumnos](images/11.png)
+
 
 ## 3. Matriculacion de los usuarios en el curso 
 
