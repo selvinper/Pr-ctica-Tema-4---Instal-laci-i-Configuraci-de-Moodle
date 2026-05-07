@@ -40,7 +40,7 @@ al primer curso que cree le llame curso A como dise el enunciado
 
 ## 2.1. Temas 
 En el curso A he puesto 3 temas que le he llamado **Tema 1**, **Tema 2**, **Tema 3** 
-<img width="749" height="733" alt="image" src="https://github.com/user-attachments/assets/3f17329d-1b89-425e-baca-722035c3fbd6" />
+![Temas](images/7.png)
 
 
 ## 2.2 Curso B
