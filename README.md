@@ -63,28 +63,32 @@ he creado 10 alumnos masivo con el archivo CSV
 
 ### 2.3.3. eliminacion de 2 alumnos 
 Cundo me pide que elimine dos usuario yo he eliminado el **alumno1** y **alumno10**
-![Creacion masiva de alumnos](images/11.png)
+![eliminacion de 2 alumnos](images/11.png)
 
 
 ## 3. Matriculacion de los usuarios en el curso 
 
 ### 3.1. Curso A
 Lo que hecho es entrar al curso darle click a participantes metodos de matriculacion y darle visualizacion a auto-matriculacion
-<img width="859" height="550" alt="image" src="https://github.com/user-attachments/assets/6a24f6b8-fe12-4b62-b6fd-2ab7edb3551f" />
+![Curso A](images/12.png)
 
 ### 3.2. Curso B
 asigne a Bob como profesor 
-<img width="745" height="427" alt="image" src="https://github.com/user-attachments/assets/42c828c7-cad7-49e5-ab1b-b07f0cd91897" />
+![Curso A](images/13.png)
+
 
 El resto de usuarios los matricule como alumnos 
-<img width="1203" height="670" alt="image" src="https://github.com/user-attachments/assets/9ceff5bf-14ba-4462-b92d-1a1b13a621d4" />
+![Curso A.1](images/14.png)
+
 
 ### 3.3. Comprovacion
 Cuando entro al curso A me pide iniciar sesion pero cuando le doy como invitado puedo acceder.
-<img width="788" height="706" alt="image" src="https://github.com/user-attachments/assets/d6a96f5c-8657-45b8-bb35-69b1e6696d0d" />
+![Comprovacion](images/14.png)
+
 
 Mientras que en el curso B no me deja acceder al curso
-<img width="800" height="580" alt="image" src="https://github.com/user-attachments/assets/031d08ee-4948-4208-8222-3027cd120315" />
+
+![Comprovacion.2](images/14.png)
 
 
 ## 4. Personalizacion del lugar
