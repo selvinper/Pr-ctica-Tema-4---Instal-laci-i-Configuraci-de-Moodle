@@ -54,12 +54,12 @@ He hecho lo mismo que el curso A pero en el curso B he puesto 5 temas
 he creado un usuario lamado Bob y lleva mis apellidos y lehe puesto mi correo 
 ![Curso B](images/9.png)
 
-<img width="795" height="317" alt="image" src="https://github.com/user-attachments/assets/8c095112-2300-41c3-b85b-18e2e4c3c666" />
-
 
 ### 2.3.2. Creacion masiva de alumnos 
 he creado 10 alumnos masivo con el archivo CSV 
-<img width="880" height="808" alt="image" src="https://github.com/user-attachments/assets/475da7fa-242a-4fc6-bab2-3dda36fdb812" />
+![Curso B](images/10.png)
+
+
 
 ### 2.3.3. eliminacion de 2 alumnos 
 Cundo me pide que elimine dos usuario yo he eliminado el **alumno1** y **alumno10** 
