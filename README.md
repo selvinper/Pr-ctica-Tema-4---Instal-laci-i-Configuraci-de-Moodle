@@ -4,7 +4,7 @@
 
 ### 1.1. Administración del perfil del usuario
 Lo primero que he hecho es entrar al moodle y poner una foto de perfil y cambiar el correo electrónico
-![Administración del perfil del usuario]("images/1.png")
+![Administración del perfil del usuario](images/1.png)
 <img width="1207" height="672" alt="Captura de pantalla 2026-04-10 141240" src="https://github.com/user-attachments/assets/9aa8b476-890b-4058-b336-2e241296ce9e" />
 
 
