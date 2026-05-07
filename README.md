@@ -5,15 +5,13 @@
 ### 1.1. Administración del perfil del usuario
 Lo primero que he hecho es entrar al moodle y poner una foto de perfil y cambiar el correo electrónico
 ![Administración del perfil del usuario](images/1.png)
-<img width="1207" height="672" alt="Captura de pantalla 2026-04-10 141240" src="https://github.com/user-attachments/assets/9aa8b476-890b-4058-b336-2e241296ce9e" />
 
 
-
-### 1.2. Configuracion del lugar
+### 1.2. Configuración del lugar
 
 ### 1.2.1. Cambio de nombre
 El nombre que le he puesto es Moodle la Bastida
-<img width="1202" height="615" alt="Captura de pantalla 2026-04-10 142414" src="https://github.com/user-attachments/assets/8ecf07cb-ca5e-4c3a-8073-aa682440ffa1" />
+![Configuración del lugar](images/2.png)
 
 
 
