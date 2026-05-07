@@ -120,7 +120,7 @@ En calificaciones lo he puesto autoamtico
 
 
 ## 7 seguridad
-![Clonacion del curso](images/22.png)
+![seguridad](images/22.png)
 
 
 
