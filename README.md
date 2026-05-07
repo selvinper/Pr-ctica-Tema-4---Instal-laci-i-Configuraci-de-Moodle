@@ -24,6 +24,8 @@ En la franja horaria he puesto Europa/Madrid y en el pais he puesto España
 
 ### 1.2.3. Cambio de Idioma
 Instala los idimas que mas se hablan en el mundo que es el **Ingles**,**Chino**,**holandes**
+![Cambio de Idioma](images/4.png)
+
 
 <img width="1207" height="601" alt="Captura de pantalla 2026-04-10 135254" src="https://github.com/user-attachments/assets/fed28a19-d554-4c48-9225-bd1895b878d7" />
 
