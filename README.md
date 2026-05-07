@@ -35,7 +35,8 @@ Le he cambiado el tipo de logitud de 8 a 9 y que tenga mas cosas como
 
 ## 2. Creacion de los cursos
 al primer curso que cree le llame curso A como dise el enunciado
-<img width="768" height="676" alt="image" src="https://github.com/user-attachments/assets/4901d9a2-622c-43fd-a3e0-975363e6b1cb" />
+![Creacion de los cursos](images/6.png)
+
 
 ## 2.1. Temas 
 En el curso A he puesto 3 temas que le he llamado **Tema 1**, **Tema 2**, **Tema 3** 
